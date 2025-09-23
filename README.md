@@ -3,6 +3,7 @@
 
 * [Description](#description)
 * [Funcionalities](#functionalities)
+* [Acceso al proyecto](#access-to-the-project)
 * [Used Technologies](#used-technologies)
 * [Developers](#developers)
 * [License](#license)
@@ -13,6 +14,9 @@ Weather website that provides information on the temperature, weather, and humid
 
 ## Functionalities
 - `Search`: Allows you to search for the desired city by entering its name in an input and making a request to an API.
+
+## Access to the project
+To access the website, you can use this link: https://weather-website-js-mrr.netlify.app/
 
 ## Used Technologies
   * JavaScript</br>
